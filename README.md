@@ -14,4 +14,7 @@
 - git commit -m "현재 변경사항의 설명"
 
 ## 변경 로그의 확인
-- git log 
+- git log
+
+## Staging 추적 제외를 위한 설정 파일 
+- .gitignore에 제외할 파일명의 패턴을 명시

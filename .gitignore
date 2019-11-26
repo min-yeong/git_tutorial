@@ -1,0 +1,10 @@
+# .gitignore
+# Staging 작업에서 제외할 파일명의 패턴을 지정
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
