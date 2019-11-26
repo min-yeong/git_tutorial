@@ -32,9 +32,6 @@
 
 - git checkout을 할 때 현재 가지에 변경 중인 파일이 남아 있으면 안된다
 
-## 저장소 복제
-- git clone 원저장소 url OR 원저장소 path
-
 ## 가지 병함
 - 다른 가지의 변경 사항을 현재 가지로 반영할 경우
 - git merge 브랜치명 
@@ -46,3 +43,9 @@
 - 태그 업로드 
 - git push 원격저장소 로컬브랜치명 --tags
 - 예) git push origin master --tags # 태그와 함께 브랜치를 push
+
+## 저장소 복제
+- git clone 원저장소 url
+- git clone 원저장소 path
+
+## 서버 변경 사항 발생
